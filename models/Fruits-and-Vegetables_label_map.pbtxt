@@ -1,0 +1,120 @@
+item {
+    name: "Bitter melon",
+    id: 1,
+    display_name: "Bitter melon"
+}
+item {
+    name: "Brinjal",
+    id: 2,
+    display_name: "Brinjal"
+}
+item {
+    name: "Cabbage",
+    id: 3,
+    display_name: "Cabbage"
+}
+item {
+    name: "Calabash",
+    id: 4,
+    display_name: "Calabash"
+}
+item {
+    name: "Capsicum",
+    id: 5,
+    display_name: "Capsicum"
+}
+item {
+    name: "Cauliflower",
+    id: 6,
+    display_name: "Cauliflower"
+}
+item {
+    name: "Garlic",
+    id: 7,
+    display_name: "Garlic"
+}
+item {
+    name: "Ginger",
+    id: 8,
+    display_name: "Ginger"
+}
+item {
+    name: "Green Chili",
+    id: 9,
+    display_name: "Green Chili"
+}
+item {
+    name: "Lady finger",
+    id: 10,
+    display_name: "Lady finger"
+}
+item {
+    name: "Onion",
+    id: 11,
+    display_name: "Onion"
+}
+item {
+    name: "Potato",
+    id: 12,
+    display_name: "Potato"
+}
+item {
+    name: "Sponge Gourd",
+    id: 13,
+    display_name: "Sponge Gourd"
+}
+item {
+    name: "Tomato",
+    id: 14,
+    display_name: "Tomato"
+}
+item {
+    name: "apple",
+    id: 15,
+    display_name: "apple"
+}
+item {
+    name: "banana",
+    id: 16,
+    display_name: "banana"
+}
+item {
+    name: "cucumber",
+    id: 17,
+    display_name: "cucumber"
+}
+item {
+    name: "dragon fruit",
+    id: 18,
+    display_name: "dragon fruit"
+}
+item {
+    name: "guava",
+    id: 19,
+    display_name: "guava"
+}
+item {
+    name: "orange",
+    id: 20,
+    display_name: "orange"
+}
+item {
+    name: "oren",
+    id: 21,
+    display_name: "oren"
+}
+item {
+    name: "pear",
+    id: 22,
+    display_name: "pear"
+}
+item {
+    name: "pineapple",
+    id: 23,
+    display_name: "pineapple"
+}
+item {
+    name: "sugar apple",
+    id: 24,
+    display_name: "sugar apple"
+}

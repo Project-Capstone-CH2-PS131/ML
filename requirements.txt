@@ -1,0 +1,6 @@
+functions-framework==3.5.0
+google-cloud-storage==2.14.0
+numpy==1.25.0
+Pillow==10.1.0
+tensorflow==2.8.0
+tf-models-research-object-detection==2.8.0
