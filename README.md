@@ -2,6 +2,32 @@
 
 This is a function to run machine learning model.
 
+## Class List for Object Detection Model
+- Bitter Melon
+- Brinjal
+- Cabbage
+- Calabash
+- Capsicum
+- Cauliflower
+- Garlic
+- Ginger
+- Green Chili
+- Lady Finger
+- Onion
+- Potato
+- Sponge Gourd
+- Tomato
+- Apple
+- Banana
+- Cucumber
+- Dragon Fruit
+- Guava
+- Orange
+- Oren
+- Pear
+- Pineapple
+- Sugar Apple
+
 ## How to Deploy
 
 Set project id and region.
